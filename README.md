@@ -1,4 +1,4 @@
-# thereckoner.ca
+# reckoner-site
 ## February 15, 2017
 - Multiple authors
 - Biographies - due February 18, 2017
