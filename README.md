@@ -1,15 +1,25 @@
 # reckoner-site
 ## February 15, 2017
 - Multiple authors
-- Biographies - due February 18, 2017
-- Athletics widget
+  - Varun
+  - James
 - Who we are
+  - due February 18, 2017
+  - Jennifer
+  - Jim
+- Athletics widget
 - Photo galaries template
   - Image Size
 - Google AdSense
+  - Wesley
+  - Sarvesh
 - Logo/Fonts
   - Mobile and Site
+  - Wesley
 - Awards Page
+  - Adam
 - Olympics
   - Mobile compatibility
   - Data analytics and visualization
+- Migrate to AWS
+  - Adam
