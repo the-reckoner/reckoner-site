@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="bio-wrapper">
+        <img id="myImg" src="https://www.thereckoner.ca/wp-content/uploads/2018/10/alexguo.jpg" alt="Alex Guo">
+        <h4 class="bio-name">Alex Guo</h4>
+        <p class="bio-title">EIC</p>
+        <!-- The Modal -->
+        <div id="myModal" class="modal">
+
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <br></br>
+                <p class="bio-name-link"><a class="author-page" href="https://thereckoner.ca/author/alexguo">Alex
+                        Guo</a></p>
+                <p class="bio">Alex Guo is a member of Reckoner’s Web Board. Oftentimes, Alex will be seen in the hall
+                    muttering indistinguishable phrases under his breath as he despairs over his Fantasy NBA lineups
+                    egregious performance. Although Alex may seem inebriated when approached, know that his behaviour is
+                    only because his stock portfolio has once again dropped 10%. Just kidding, Alex never loses. </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get the modal
+        var modal = document.getElementById("myModal");
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var img = document.getElementById("myImg");
+        img.onclick = function () {
+            modal.style.display = "block";
+        }
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[0];
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+    </script>
+</body>
+
+</html>
