@@ -8,11 +8,11 @@
 
 - change image link
   
-  - Please make the picture square-cropped; it'll make your life easier
+  - please make the picture square-cropped; it'll make your life easier
 
 - change h4 - bio name
 
-- IF the person is a manager, include <p class="bio-title"> or else leave it
+- IF the person is a manager, include <p class="bio-title" or else delete it
 
 - change author page
 
