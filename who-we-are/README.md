@@ -4,7 +4,7 @@
 
 ### HTML
 
-- copy and paste from ' <div class="bio-wrapper">' to </script> "'
+- copy and paste from ' <div class="bio-wrapper"' to </script> "'
 
 - change image link
   
